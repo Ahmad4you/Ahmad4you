@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Ahmad4you/Ahmad4you** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Was ich mache
+- Backend-Entwicklung: Erstellung robuster und skalierbarer Serveranwendungen mit Jakarta EE.
+- Datenbanken: Design und Optimierung von SQL-Datenbanken.
+- Web-Technologien: Integration von Backend-Systemen mit Frontend-Anwendungen.
 
-Here are some ideas to get you started:
+## Mein Tech-Stack
+- Sprachen: Java, SQL, HTML, CSS, JavaScript, C#
+- Frameworks: Hibernate
+- Datenbanken: MySQL, PostgreSQL, Oracle
+- Tools: Eclipse IDE, IntelliJ IDEA, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projekte
+- [Projekt 1]: Eine E-Commerce-Plattform mit Java EE
+- [Projekt 2]: RESTful API mit Jakarta EE für ein Buchungssystem
+- [Projekt 3]: Controlling
+- [Projekt 4]: Primefaces
+
+## Kontakt
+Ich bin immer offen für spannende Projekte und den Austausch innovativer Ideen. 
+Kontaktieren Sie mich gerne:
+
+- 📧 Email: ahmad.alrefai@outlook.de
