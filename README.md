@@ -14,8 +14,8 @@
 ## Projekte
 - [Projekt 1]: Eine E-Commerce-Plattform mit Java EE
 - [Projekt 2]: RESTful API mit Jakarta EE für ein Buchungssystem
-- [Projekt 3]: Controlling
-- [Projekt 4]: Primefaces
+- [Projekt 3]: Deutsche Controlling 
+- [Projekt 4]: Primefaces impl
 
 ## Kontakt
 Ich bin immer offen für spannende Projekte und den Austausch innovativer Ideen. 
