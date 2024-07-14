@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## Was ich mache
+## What I Do
 - Backend-Entwicklung: Erstellung robuster und skalierbarer Serveranwendungen mit Jakarta EE.
 - Datenbanken: Design und Optimierung von SQL-Datenbanken.
 - Web-Technologien: Integration von Backend-Systemen mit Frontend-Anwendungen.
