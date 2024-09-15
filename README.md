@@ -6,10 +6,10 @@
 - Web-Technologien: Integration von Backend-Systemen mit Frontend-Anwendungen.
 
 ## Mein Tech-Stack
-- Sprachen: Java, SQL, HTML, CSS, JavaScript, C#
-- Frameworks: Hibernate
+- Sprachen: Java, C#, HTML, CSS, JavaScript
+- Frameworks: Jakarta EE, Spring Boot, Hibernate, Bootstrap
 - Datenbanken: MySQL, PostgreSQL, Oracle
-- Tools: Eclipse IDE, IntelliJ IDEA, Git
+- Tools: Eclipse IDE, VS-Code, Git
 
 ## Projekte
 - [Projekt 1]: Eine E-Commerce-Plattform mit Java EE
